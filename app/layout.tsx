@@ -1,5 +1,5 @@
 import type { Metadata } from 'next'
-import { Inter } from 'next/font/google'
+import  {Inter}  from 'next/font/google'
 import { auth } from '@/auth'
 import './globals.css'
 import { SessionProvider } from 'next-auth/react'
